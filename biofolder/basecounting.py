@@ -4,7 +4,7 @@ C=0
 T=0
 G=0
 if len(blist)>1000:
-    print("sorry,this program are incapable of count more than 1000nt")
+    print("sorry,this program is incapable of count more than 1000nt")
 for indice in range(len(blist)):
     if blist[indice]=='A':
         A=A+1
